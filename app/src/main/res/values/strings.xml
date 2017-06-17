@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ReportCard</string>
+
+    <string name="report_card">Report Card</string>
+    <string name="english">English</string>
+    <string name="english_grade">A</string>
+    <string name="history">History</string>
+    <string name="history_grade">B+</string>
+    <string name="science">Science</string>
+    <string name="science_grade">A-</string>
+    <string name="math">Math</string>
+    <string name="math_grade">A+</string>
+    <string name="art">Art</string>
+    <string name="art_grade">B</string>
+    <string name="gym">Gym</string>
+    <string name="gym_grade">F</string>
+</resources>

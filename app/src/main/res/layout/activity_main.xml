@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textStyle="bold"
+        android:text="@string/report_card"
+        android:textSize="36sp" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:stretchColumns="2">
+
+        <!-- First Row -->
+
+        <TableRow style="@style/TableRowStyle">
+
+            <TextView
+                style="@style/ReportStyle"
+                android:text="@string/english" />
+
+            <TextView
+                android:layout_marginLeft="5dp"
+                style="@style/GradeStyle"
+                android:text="@string/english_grade" />
+        </TableRow>
+
+        <!-- Second Row -->
+
+        <TableRow style="@style/TableRowStyle">
+
+            <TextView
+                style="@style/ReportStyle"
+                android:text="@string/history" />
+
+            <TextView
+                android:layout_marginLeft="5dp"
+                style="@style/GradeStyle"
+                android:text="@string/history_grade" />
+        </TableRow>
+
+        <!-- Third Row -->
+
+        <TableRow
+            style="@style/TableRowStyle">
+
+            <TextView
+                style="@style/ReportStyle"
+                android:text="@string/science" />
+
+            <TextView
+                android:layout_marginLeft="5dp"
+                style="@style/GradeStyle"
+                android:text="@string/science_grade" />
+        </TableRow>
+
+        <!-- Fourth Row -->
+
+        <TableRow style="@style/TableRowStyle">
+
+            <TextView
+                style="@style/ReportStyle"
+                android:text="@string/math" />
+
+            <TextView
+                android:layout_marginLeft="5dp"
+                style="@style/GradeStyle"
+                android:text="@string/math_grade" />
+        </TableRow>
+
+        <!-- Fifth Row -->
+
+        <TableRow style="@style/TableRowStyle">
+
+            <TextView
+                style="@style/ReportStyle"
+                android:text="@string/art" />
+
+            <TextView
+                android:layout_marginLeft="5dp"
+                style="@style/GradeStyle"
+                android:text="@string/art_grade" />
+        </TableRow>
+
+        <!-- Sixth Row -->
+
+        <TableRow style="@style/TableRowStyle">
+
+            <TextView
+                style="@style/ReportStyle"
+                android:text="@string/gym" />
+
+            <TextView
+                android:layout_marginLeft="5dp"
+                style="@style/GradeStyle"
+                android:text="@string/gym_grade" />
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

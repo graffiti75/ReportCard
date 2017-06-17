@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/rodrigo/git/ReportCard/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/rodrigo/.android/build-cache/9e3fac060f14c422337c3ee41b9ed969bfa0eaa4/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/rodrigo/git/ReportCard/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/rodrigo/.android/build-cache/9e3fac060f14c422337c3ee41b9ed969bfa0eaa4/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

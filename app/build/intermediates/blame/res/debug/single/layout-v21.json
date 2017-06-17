@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/rodrigo/git/ReportCard/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/rodrigo/.android/build-cache/9e3fac060f14c422337c3ee41b9ed969bfa0eaa4/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/rodrigo/git/ReportCard/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/rodrigo/.android/build-cache/9e3fac060f14c422337c3ee41b9ed969bfa0eaa4/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/rodrigo/git/ReportCard/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/rodrigo/.android/build-cache/9e3fac060f14c422337c3ee41b9ed969bfa0eaa4/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/rodrigo/git/ReportCard/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/rodrigo/.android/build-cache/9e3fac060f14c422337c3ee41b9ed969bfa0eaa4/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]
